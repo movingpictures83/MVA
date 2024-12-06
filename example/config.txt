@@ -1,0 +1,2 @@
+Prefix plugins/MVA/example/
+Plugin MVA inputfile PQN.pdf.rds outputfile MVA.pdf
